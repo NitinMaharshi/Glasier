@@ -1,0 +1,20 @@
+{
+  "form": [
+    {
+      "name": "Nitin Maharashi",
+      "email": "nitin_pw2_053@masai.school",
+      "password": "Ram@789123",
+      "confirmpassword": "Ram@789123",
+      "dateofbirth": "1998-06-20",
+      "id": 1
+    },
+    {
+      "name": "Nitin Maharashi",
+      "email": "nitin77n@gmail.com",
+      "password": "Ram@789123",
+      "confirmpassword": "Ram@789123",
+      "dateofbirth": "1998-06-20",
+      "id": 2
+    }
+  ]
+}
